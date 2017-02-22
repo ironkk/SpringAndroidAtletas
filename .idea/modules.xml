@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/main/main.iml" filepath="$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/BasketballOauth2Jhipster3/src/main/main1.iml" filepath="$PROJECT_DIR$/Spring/BasketballOauth2Jhipster3/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/basketballOAuth2-master/src/main/main2.iml" filepath="$PROJECT_DIR$/Spring/basketballOAuth2-master/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/basketballOAuth2-master/src/test/test.iml" filepath="$PROJECT_DIR$/Spring/basketballOAuth2-master/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/BasketballOauth2Jhipster3/src/test/test1.iml" filepath="$PROJECT_DIR$/Spring/BasketballOauth2Jhipster3/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/test/test2.iml" filepath="$PROJECT_DIR$/Android/Android_JHipster_Basketball-master/app/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
